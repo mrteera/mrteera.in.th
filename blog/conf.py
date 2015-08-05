@@ -18,7 +18,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "MrTeera"  # (translatable)
-BLOG_TITLE = "mrteera.in.th"  # (translatable)
+BLOG_TITLE = "MrTeera TH Blog"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://mrteera.in.th/"
@@ -26,7 +26,7 @@ SITE_URL = "https://mrteera.in.th/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://mrteera.in.th/"
 BLOG_EMAIL = "webmaster@mrteera.com"
-BLOG_DESCRIPTION = "MrTeera TH Blog"  # (translatable)
+BLOG_DESCRIPTION = "MrTeera Blog in Thai"  # (translatable)
 
 # Nikola is multilingual!
 #
